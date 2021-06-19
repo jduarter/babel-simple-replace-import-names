@@ -13,3 +13,5 @@ function plugin({ types: t }) {
     },
   };
 }
+
+module.exports = plugin;
